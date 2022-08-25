@@ -1,2 +1,0 @@
-# ci-example
-MLOps class
